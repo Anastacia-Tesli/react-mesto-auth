@@ -1,6 +1,6 @@
 # Проект Место на React с роутингом и авторизацией
 
-[Демо-версия](https://anastacia-tesli.github.io/mesto-react/)
+[Демо-версия](https://anastacia-tesli.github.io/react-mesto-auth/)
 
 ## Описание
 
